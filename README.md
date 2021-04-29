@@ -1,2 +1,2 @@
 # BibTexTool
-creates BibTex keys from pdf
+creates BibTex keys from pdfs
